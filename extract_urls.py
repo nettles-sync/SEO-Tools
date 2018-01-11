@@ -25,8 +25,8 @@ from __future__ import print_function
 
 # Set global variables
 
-sitemap_url = 'https://www.sportchek.ca/sitemap.xml'
-sitemap_is_index = True # Does sitemap_url point to other XML pages?
+sitemap_url = 'https://www.example.com/sitemap.xml'
+sitemap_is_index = False # Does sitemap_url point to other XML pages?
 sitemap_is_gzip = False # Are the XML pages in compressed format?
 
 
